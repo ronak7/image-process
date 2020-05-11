@@ -19,7 +19,7 @@ Here I have created two APIs for upload image and delte image
 - And created variation like, 1000x1000 750x750 530x530 300x300
 - Save image as per variation
 
-### Detel images and data
+### Detele images and data
 - URL: localhost:8000/api/delete
 - Method: *POST*
 #
